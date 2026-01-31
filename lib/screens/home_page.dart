@@ -87,7 +87,7 @@ class _HomePageState extends State<HomePage> {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: const [
-                    Text('Dewy', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24, color: Colors.white)),
+                    Text('DEWY', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24, color: Colors.white)),
                     Row(children: [Icon(Icons.notifications_none, color: Colors.white), SizedBox(width: 16), Icon(Icons.favorite_border, color: Colors.white)]),
                   ],
                 ),
