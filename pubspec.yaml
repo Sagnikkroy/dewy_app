@@ -15,7 +15,7 @@ dependencies:
 
   supabase_flutter: ^2.0.0
   http: ^1.1.0
-  
+  shimmer: ^3.0.0  # Add this line
 
   cupertino_icons: ^1.0.8
   flutter_svg: ^2.0.9
